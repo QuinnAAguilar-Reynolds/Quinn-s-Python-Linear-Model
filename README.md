@@ -4,3 +4,6 @@
 
 
 [Uploading Untitled2.html…]()
+
+https://hub.binder.curvenote.dev/user/quinnaaguilar-r-r_modeling_in_r-jvcvq5lc/lab/tree/Untitled.ipynb
+
